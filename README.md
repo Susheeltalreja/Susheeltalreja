@@ -37,18 +37,6 @@ I am a high-impact **Full Stack Web Developer** specializing in **Advanced MERN 
 
 ---
 
-### 🚀 Masterpiece Projects
-
-#### 💎 **The MERN Modular Engine (Advanced Architecture)**
-*A production-grade, 100% reusable full-stack framework.*
-- **Backend:** Modular Node/Express MVC structure with JWT-based security and custom middleware.
-- **Frontend:** Atomic design components in React with optimized state management.
-- **Result:** Reduced development setup time for new enterprise apps by 70%.
-
-#### 🎓 **Student Management System** Advanced Laravel implementation featuring complex Database relations (Eloquent), RBAC, and high-speed query optimization.
-
----
-
 ### 📈 GitHub Status
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susheeltalreja&theme=radical" alt="GitHub Stats" width="100%" />
