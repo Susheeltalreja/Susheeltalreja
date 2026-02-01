@@ -5,8 +5,8 @@
   </p>
 
   <p align="center">
-    <a href="[https://github.com/Susheeltalreja](https://github.com/Susheeltalreja)">
-      <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers">
+    <a href="https://github.com/Susheeltalreja">
+      <img src="https://img.shields.io/github/followers/Susheeltalreja?label=Follow&style=social" alt="GitHub followers">
     </a>
     <a href="mailto:talrejasushant0@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" alt="Email">
@@ -38,8 +38,8 @@ I am a dedicated and ambitious **Full Stack Web Developer** with a focus on buil
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="Sushant's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Susheeltalreja&show_icons=true&theme=radical&hide_border=true" alt="Sushant's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susheeltalreja&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -53,11 +53,8 @@ I am a dedicated and ambitious **Full Stack Web Developer** with a focus on buil
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="[https://linkedin.com/in/susheel-talreja](https://www.linkedin.com/in/susheel-talreja/)" target="_blank">
+  <a href="https://www.linkedin.com/in/susheel-talreja/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
