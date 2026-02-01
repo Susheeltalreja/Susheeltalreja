@@ -20,6 +20,7 @@
 I am a high-impact **Full Stack Web Developer** specializing in **Advanced MERN Stack development**. My expertise lies in building high-performance, scalable, and reusable system architectures using **React, Node.js, and MongoDB**, alongside professional-grade **Laravel and .NET** backend systems.
 
 - 🔭 I’m currently architecting **Scalable MERN Ecosystems & Cloud-Native Apps**
+- 🌱 I’m currently learning **Cloud Deployment & System Design**
 - 🧠 Specializing in **Reusable Component Design & Modular Backend Engines**
 - ⚡ Fun fact: I don't just build apps; I build systems that build apps.
 
@@ -50,7 +51,7 @@ I am a high-impact **Full Stack Web Developer** specializing in **Advanced MERN 
 
 ### 📈 GitHub Ecosystem
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Susheeltalreja&show_icons=true&theme=radical&hide_border=true" alt="Sushant's GitHub Stats" />
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=Susheeltalreja&show_icons=true&theme=radical&hide_border=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susheeltalreja&theme=radical)" alt="Sushant's GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susheeltalreja&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
