@@ -28,11 +28,12 @@ I am a high-impact **Full Stack Web Developer** specializing in **Advanced MERN 
 
 ### 🛠️ Core Tech Stack & Proficiency
 
-| Category | Technologies | Level |
-| :--- | :--- | :--- |
-| **Advanced MERN** | `MongoDB` `Express.js` `React.js` `Node.js` | ![100%](https://progress-bar.dev/100?title=Expert&width=120) |
-| **Enterprise Backend** | `Laravel` `.NET` `PHP` `REST APIs` | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) |
-| **Database & Tools** | `MySQL` `Postman` `Git` `R Programming` | ![85%](https://progress-bar.dev/85?title=Strong&width=120) |
+| Category | Technologies |
+| :--- | :--- |
+| **Advanced MERN** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Enterprise Backend** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Frontend & Style** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **Data & Tools**| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
