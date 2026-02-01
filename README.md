@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Hi, I'm Sushant Talreja</h1>
+  <h1>🚀 Hi, I'm Susheel Sham Talreja</h1>
   <p align="center">
     <strong>Advanced MERN Stack Expert | Backend Architect | Full Stack Developer</strong>
   </p>
