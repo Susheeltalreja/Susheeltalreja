@@ -1,5 +1,8 @@
 <div align="center">
   <h1>🚀 Hi, I'm Susheel Sham Talreja</h1>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FD853A&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Full+Stack+Developer;React+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
   <p align="center">
     <strong>MERN Stack Developer | Backend Architect | Full Stack Developer</strong>
   </p>
